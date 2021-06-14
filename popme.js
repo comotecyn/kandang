@@ -9,7 +9,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "#https://www.safestcontentgate.com/urtaukg1ib?key=e86e8c2cd3d7d72acf189455cb27ae74",
+                            "https://www.safestcontentgate.com/urtaukg1ib?key=e86e8c2cd3d7d72acf189455cb27ae74",
                            
                         ]);
 
