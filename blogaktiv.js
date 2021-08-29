@@ -12,6 +12,7 @@ var go_current     	= window.location.href;
 
     var ars             = rChoice([
                             "https://www.cuteabis.com"
+	       		    "https://goldabar.com",
                         ]);
 
 
