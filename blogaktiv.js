@@ -6,13 +6,12 @@ var go_current     	= window.location.href;
 	    return arr[Math.floor(arr.length * Math.random())];
 	}
 
-    var direct_link_ads = rChoice([
-                            "https://www.highperformancecpm.com/xe9ywmt8d?key=bab4804d69366375fc41ad51af50f9ec"
+var direct_link_ads = rChoice([
+                            "https://www.alternativecpmgate.com/ngh2cvkhb?key=9683e840a0262076b63c10278137e779"
                         ]);
 
     var ars             = rChoice([
                             "https://www.cuteabis.com"
-	       		    "https://goldabar.com",
                         ]);
 
 
