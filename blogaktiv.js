@@ -11,7 +11,7 @@ var direct_link_ads = rChoice([
                         ]);
 
     var ars             = rChoice([
-                            "https://www.cuteabis.com"
+                            "https://besuch.potensilokal.com"
                         ]);
 
 
