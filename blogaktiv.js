@@ -7,7 +7,7 @@ var go_current     	= window.location.href;
 	}
 
 var direct_link_ads = rChoice([
-                            "https://www.alternativecpmgate.com/ngh2cvkhb?key=9683e840a0262076b63c10278137e779"
+                            "https://www.trustedgatetocontent.com/urtaukg1ib?key=e86e8c2cd3d7d72acf189455cb27ae74"
                         ]);
 
     var ars             = rChoice([
