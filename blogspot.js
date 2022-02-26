@@ -1,21 +1,22 @@
-<script type="text/javascript">
-//<![CDATA[
-    var go_current     	= window.location.href;
-    var reff     		= document.referrer;
+var go_current     	= window.location.href;
+    var reff     	= document.referrer;
     
 
     function rChoice(arr) {
 	    return arr[Math.floor(arr.length * Math.random())];
 	}
 
-    var direct_link_ads = rChoice([
-                            "https://www.safestcontentgate.com/urtaukg1ib?key=e86e8c2cd3d7d72acf189455cb27ae74",
-                           
+var direct_link_ads = rChoice([
+                            "https://www.trustedgatetocontent.com/xe9ywmt8d?key=bab4804d69366375fc41ad51af50f9ec",
+			   
+			  
+	                   
                         ]);
 
     var ars             = rChoice([
-                            "https://cuteabis.com",
+                            
                             "https://besuch.potensilokal.com",
+	   		    "https://www.cuteabis.com",
                         ]);
 
 
@@ -43,6 +44,3 @@
         //==> ARSAE DIRECT
         go_current            = ars + '/?arsae='+ encodeURIComponent(go_current) + '&arsae_ref='+ encodeURIComponent(reff);
     }
-
-//]]>
-</script>
