@@ -9,7 +9,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://www.safestcontentgate.com/urtaukg1ib?key=e86e8c2cd3d7d72acf189455cb27ae74",
+                            "https://www.profitablecpmgate.com/ymkq6d6p?key=187493c8159e3934f28c7782b0f1cf04",
                            
                         ]);
 
