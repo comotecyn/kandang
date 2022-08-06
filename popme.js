@@ -9,7 +9,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://www.highperformancegate.com/xe9ywmt8d?key=bab4804d69366375fc41ad51af50f9ec",
+                            "https://www.highperformancegate.com/ymkq6d6p?key=187493c8159e3934f28c7782b0f1cf04",
                            
                         ]);
 
