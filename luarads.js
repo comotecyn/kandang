@@ -7,7 +7,7 @@ var go_current     	= window.location.href;
 	}
 
 var direct_link_ads = rChoice([
-                            "https://www.profitablegatetocontent.com/ymkq6d6p?key=187493c8159e3934f28c7782b0f1cf04",
+                            "https://www.profitablegatetocontent.com/xe9ywmt8d?key=bab4804d69366375fc41ad51af50f9ec",
 			
 			   
 			  
@@ -16,8 +16,8 @@ var direct_link_ads = rChoice([
 
     var ars             = rChoice([
                             
-                            "https://besuch.potensilokal.com",
-	   		    "https://cuteabis.com",
+                            "https://www.goldabar.com",
+	   		    
                         ]);
 
 
