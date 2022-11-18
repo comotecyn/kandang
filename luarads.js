@@ -7,7 +7,7 @@ var go_current     	= window.location.href;
 	}
 
 var direct_link_ads = rChoice([
-                            "https://www.profitablegatetocontent.com/xe9ywmt8d?key=bab4804d69366375fc41ad51af50f9ec",
+                            "https://www.highperformancecpmgate.com/xe9ywmt8d?key=bab4804d69366375fc41ad51af50f9ec",
 			
 			   
 			  
