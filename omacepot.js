@@ -1,6 +1,4 @@
-//<![CDATA[
 
-    //START HISTAT
     var _Hasync= _Hasync|| [];
 	_Hasync.push(['Histats.start', '1,6553105,4,0,0,0,00010000']);
 	_Hasync.push(['Histats.fasi', '1']);
@@ -21,7 +19,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "#https://www.highcpmrevenuenetwork.com/ymkq6d6p?key=187493c8159e3934f28c7782b0f1cf04",
+                            "https://www.highcpmrevenuenetwork.com/ymkq6d6p?key=187493c8159e3934f28c7782b0f1cf04",
                             
                         ]);
 
@@ -99,4 +97,4 @@
 
 	});
 
-//]]>
+
