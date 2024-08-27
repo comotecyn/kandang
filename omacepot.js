@@ -19,7 +19,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://www.profitablegatecpm.com/ymkq6d6p?key=187493c8159e3934f28c7782b0f1cf04",
+                            "https://www.cpmrevenuegate.com/ymkq6d6p?key=187493c8159e3934f28c7782b0f1cf04",
                             
                         ]);
 
