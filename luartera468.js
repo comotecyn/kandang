@@ -5,4 +5,4 @@
 		'width' : 468,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/c4717464f385d69cdd57d003042d97cd/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitableratecpm.com/c4717464f385d69cdd57d003042d97cd/invoke.js"></scr' + 'ipt>');
