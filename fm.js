@@ -1,0 +1,15 @@
+ const jadwal = [
+      { mulai: "05:00", selesai: "06:00", nama: "Embun Pagi", penyiar: "Auto Play" },
+      { mulai: "06:00", selesai: "08:00", nama: "Cakrawala Pagi", penyiar: "Nama Penyiar" },
+      { mulai: "08:00", selesai: "10:00", nama: "Sapa Bojonegoro", penyiar: "Nama Penyia" },
+      { mulai: "10:00", selesai: "12:00", nama: "Cakrawala Siang", penyiar: "Nama Penyia" },
+      { mulai: "12:00", selesai: "13:00", nama: "program lintas informasi dan musik dangdut (prolinda)", penyiar: "Nama Penyiar" },
+      { mulai: "13:00", selesai: "14:00", nama: "Prolinda", penyiar: "Nama Penyiar" },
+      { mulai: "14:00", selesai: "16:00", nama: "Cakrawala Pendidikan", penyiar: "Nama Penyiar" },
+      { mulai: "16:00", selesai: "18:00", nama: "Klasika", penyiar: "Iwan Siswoyo" },
+      { mulai: "18:00", selesai: "19:00", nama: "Cakrawala Malam", penyiar: "Iwan Siswoyo" },
+      { mulai: "19:00", selesai: "20:00", nama: "Cakrawala Malam", penyiar: "Iwan Siswoyo" },
+      { mulai: "20:00", selesai: "21:00", nama: "Kumbang Sari", penyiar: "Arfi" },
+      { mulai: "21:00", selesai: "22:00", nama: "Kumbang Sari", penyiar: "Arfi" },
+      { mulai: "22:00", selesai: "05:00", nama: "Teman Tidur (Pop & Jazz)", penyiar: "Auto Play" },
+    ]
